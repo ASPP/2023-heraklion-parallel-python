@@ -1,1 +1,1 @@
-# 2023-mexico-parallel-python
+# 2023-heraklion-parallel-python

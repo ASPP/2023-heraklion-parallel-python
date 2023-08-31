@@ -1,6 +1,6 @@
 # (Embarrassingly) Parallel Python - Overview and Learning Activities
 
-Jakob, Zbigniew, Jenni
+Aitor, Zbigniew
 
 ## Learning activities
 
